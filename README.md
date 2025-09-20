@@ -16,7 +16,11 @@
 
 ## 🚀 Установка и запуск
 
+Открыть файл можно по кнопке в Google Colab:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedorSolodkin/GenAI-1-31-Solodkin/blob/main/generate_dialog.ipynb)
+
+Либо же запустить напрямую: 
 
 ### Установка зависимостей
 
