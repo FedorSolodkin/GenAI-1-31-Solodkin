@@ -16,7 +16,7 @@
 
 ## 🚀 Установка и запуск
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedorSolodkin/GenAI-1-31-Solodkin/blob/main/GenAI-1-31-Solodkin.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedorSolodkin/GenAI-1-31-Solodkin/blob/main/generate_dialog.ipynb)
 
 ### Установка зависимостей
 
