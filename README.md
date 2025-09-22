@@ -29,6 +29,8 @@
 
 ```bash
 pip install transformers accelerate huggingface_hub torch
+pip install sentencepiece
+pip install -r requirements.txt
 ```
 
 ### Запуск генератора
